@@ -1,0 +1,8 @@
+pandas
+node2vec
+networkx
+numpy
+torch
+scikit-learn
+ipykernel
+matplotlib
